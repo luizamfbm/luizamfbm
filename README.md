@@ -1,5 +1,5 @@
 ## Oii! Eu sou a Luíza Bôa Morte
-[![luizamfbm's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamfbm&count_private=true&show_icons=true&theme=dracula&card_width=500)](https://github.com/luizamfbm/github-readme-stats)
+[![luizamfbm's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamfbm&theme=dracula&show_icons=true&count_private=true)](https://github.com/luizamfbm/github-readme-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizamfbm&layout=compact&theme=dracula&card_width=500)](https://github.com/luizamfbm/github-readme-stats)
   
