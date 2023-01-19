@@ -1,12 +1,7 @@
 ## Oii! Eu sou a Luíza Bôa Morte
-<div>
- <a href="https://github.com/luizamfbm">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamfbm&show_icons=true)](https://github.com/luizamfbm/github-readme-stats)
- (https://github-readme-stats.vercel.app/api/top-langs/?username=luizamfbm&layout=compact)](https://github.com/luizamfbm/github-readme-stats)
- </div>
+[![luizamfbm's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamfbm&count_private=true&show_icons=true&theme=dracula&card_width=500)](https://github.com/luizamfbm/github-readme-stats)
 
-<div style="display: inline_block"><br>
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizamfbm&layout=compact&theme=dracula&card_width=500)](https://github.com/luizamfbm/github-readme-stats)
   
   
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
