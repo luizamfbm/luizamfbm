@@ -1,16 +1,24 @@
-### Hi there 👋
+## Oii! Eu sou a Luíza Bôa Morte
+<div>
+ <a href="https://github.com/luizamfbm">
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamfbm&show_icons=true)](https://github.com/luizamfbm/github-readme-stats)
+ (https://github-readme-stats.vercel.app/api/top-langs/?username=luizamfbm&layout=compact)](https://github.com/luizamfbm/github-readme-stats)
+ </div>
 
-<!--
-**luizamfbm/luizamfbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+ 
+  
+  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://width=676&height=676">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/lu%C3%ADza-f%C3%A9lix-b%C3%B4a-morte-99908b258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
