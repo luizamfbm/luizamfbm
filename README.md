@@ -1,14 +1,14 @@
 ## Olá, eu sou a Luíza Bôa Morte
 ## 💻 Sou desenvolvedora front-end
 ## 📓 Estudando: html e css
- [![luizamfbm's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamfbm&count_private=true&show_icons=true&theme=dracula)](https://github.com/luizamfbm/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizamfbm&layout=compact&theme=dracula&card_width=450)](https://github.com/luizamfbm/github-readme-stats)
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luizamfbm&count_private=true&show_icons=true&theme=dracula">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamfbm&layout=compact&theme=dracula&card_width=450">
   
   <div>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://width=676&height=676">
+
 </div>
   
   ##
