@@ -1,8 +1,8 @@
 ## Olá, eu sou a Luíza Bôa Morte
 ## 💻 Sou desenvolvedora front-end
 ## 📓 Estudando: html e css
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luizamfbm&count_private=true&show_icons=true&theme=dracula">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamfbm&layout=compact&theme=dracula&card_width=450">
+ <img width="42%" src="https://github-readme-stats.vercel.app/api?username=luizamfbm&count_private=true&show_icons=true&theme=dracula">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamfbm&layout=compact&theme=dracula&card_width=450">
   
   <div>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
