@@ -1,6 +1,6 @@
-## Olá, eu sou a Luíza Bôa Morte
-## 💻 Sou desenvolvedora front-end
-## 📓 Estudando: html e css
+## Hi, I am Luíza Bôa Morte 
+## 💻 I'm a full stack developer
+## 📓 currently learning Javascript and React
  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=luizamfbm&count_private=true&show_icons=true&theme=nightowl">
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamfbm&layout=compact&theme=nightowl&card_width=450">
   
