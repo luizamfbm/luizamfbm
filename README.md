@@ -1,6 +1,5 @@
 ## Hi, I am Luíza Bôa Morte 
 ## 📓 currently improving my skills in Data Analysis
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamfbm&layout=compact&theme=nightowl&card_width=450">
   
   <div>
   <img align="center" alt="Luiza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
